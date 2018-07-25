@@ -15,9 +15,9 @@ And then execute:
     $ bundle
 
 Or install it yourself as:
-
+```ruby
     $ gem install botello_view_tool
-
+```
 ## Usage
 ``` ruby
 BotelloViewTool::Renderer.copyright 'Charlie Botello', "All rights reserved"
