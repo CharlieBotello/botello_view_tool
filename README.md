@@ -6,16 +6,16 @@
 
 Add this line to your application's Gemfile:
 
-```ruby
+``` ruby
 gem 'botello_view_tool'
 ```
 
 And then execute:
-
+``` ruby
     $ bundle
-
+```
 Or install it yourself as:
-```ruby
+``` ruby
     $ gem install botello_view_tool
 ```
 ## Usage
